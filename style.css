@@ -1,0 +1,46 @@
+
+.p1{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.p1 {
+  float: left;
+}
+
+.p1 {
+  display: block;
+  padding: 8px;
+  background-color: #defbe002;
+}
+.center {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .p2{
+        position: absolute;
+        top: 0px;
+        right: 0px;
+     }
+
+     .a{
+        padding: 30px 70px  90px ;
+        margin-bottom: 70px ;
+        margin-right: 100px;
+     }
+     .b{
+      padding: 35px 70px 50px ;
+      padding-left:50px ; 
+    }
+
+    body{
+          background-color: rgba(80, 255, 135, 0.296);
+        }
+
+  
