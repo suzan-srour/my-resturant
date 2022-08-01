@@ -21,7 +21,10 @@
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-  }
+  } 
+
+
+
 
   .p2{
         position: absolute;
@@ -43,4 +46,4 @@
           background-color: rgba(80, 255, 135, 0.296);
         }
 
-  
+        font-family: 'Square Peg', cursive;
